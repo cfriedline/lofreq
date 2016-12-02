@@ -22,7 +22,7 @@
    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 */
-
+#undef bam_nt16_nt4_table
 #ifndef BAM_MD_EXT_H
 #define BAM_MD_EXT_H
 
